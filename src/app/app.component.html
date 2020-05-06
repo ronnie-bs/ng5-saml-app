@@ -1,7 +1,7 @@
 <p-toolbar>
     <div class="ui-toolbar-group-left">
-        <button pButton type="button" label="Home" icon="fa-home"></button>
-        <button pButton type="button" label="Profile" icon="fa-user"></button>
+        <button pButton type="button" label="Home" (click)="navigateTo('home')" icon="fa-home"></button>
+        <button pButton type="button" label="Profile" (click)="navigateTo('profile')" icon="fa-user"></button>
     </div>
     
     <div class="ui-toolbar-group-right">
