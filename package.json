@@ -24,7 +24,7 @@
     "@angular/platform-browser": "5.2.11",
     "@angular/platform-browser-dynamic": "5.2.11",
     "@angular/router": "5.2.11",
-    "angular2-jwt": "^0.2.3",
+    "font-awesome": "4.7.0",
     "jasmine-core": "2.6.4",
     "jasmine-spec-reporter": "4.1.1",
     "karma": "1.7.1",
@@ -34,6 +34,7 @@
     "karma-jasmine": "1.1.2",
     "karma-jasmine-html-reporter": "0.2.2",
     "ng-packagr": "2.4.5",
+    "primeng": "5.2.7",
     "rxjs": "5.5.10",
     "typescript": "2.6.2",
     "zone.js": "0.8.26"
